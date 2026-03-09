@@ -61,6 +61,9 @@ EXCEL PROJECTS
   - Tools: Excel  
   - Created a sales performance dashboard using pivot tables and charts to monitor KPIs.
 
+• Amazon Sales Analytics Dashboard
+  - Tools: Excel
+  - Created an interactive Excel dashboard to analyze Amazon sales performance and identify top-selling products.
 
 POWER BI PROJECTS
 
@@ -71,3 +74,14 @@ POWER BI PROJECTS
 • ATM Transaction Dashboard  
   - Tools: Power BI  
   - Visualized ATM transaction data to identify usage patterns and performance insights.
+
+
+ADVANCED DATA ANALYTICS PROJECTS
+
+• Vendor Performance Analysis Project
+  - Tools: Python, Pandas, NumPy, Power BI
+  - Analyzed vendor sales data to evaluate supplier performance and identify top-performing vendors using data analysis and dashboard visualization.
+
+• User Engagement Analysis Project
+  - Tools: Python, SQL
+  - Analyzed user engagement metrics using SQL queries and Python to understand user activity trends and generate insights.
